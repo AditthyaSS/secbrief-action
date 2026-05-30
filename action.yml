@@ -20,7 +20,7 @@ inputs:
   secbrief-api-url:
     description: SecBrief API base URL. Override for self-hosted.
     required: false
-    default: https://api.secbrief.dev
+    default: https://aditya12705-secbrief.hf.space
 
 runs:
   using: node20
